@@ -1,0 +1,20 @@
+{
+  "name": "THK I2C",
+  "version": "1.0.0",
+  "keywords": "esp8266, I2C",
+  "description": "I2C Implementation for ESP8266_RTOS_SDK",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/THKDev/ESP8266_RTOS_I2C"
+  },
+  "authors":
+  [
+    {
+        "name": "Thomas Kordelle",
+        "email": ""
+    }
+  ],
+  "frameworks": "esp8266-rtos-sdk",
+  "platforms": "espressif"
+}
